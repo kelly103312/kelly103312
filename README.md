@@ -1,6 +1,8 @@
 ## Holaa 👋
 - 🌱 Actualmente estoy aprendiendo DevOps y react
-- 🔭 Estoy trabajando en varios proyectos. Cada día es una nueva oportunidad de aprender.
+- 🔭 Estoy trabajando en varios proyectos.
+
+✨✨Cada día es una nueva oportunidad de aprender.
 
 <!--
 **kelly103312/kelly103312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
