@@ -1,6 +1,5 @@
 ## Holaa 👋
-- 🌱 Actualmente estoy aprendiendo DevOps y react
-- 🔭 Estoy trabajando en varios proyectos.
+
 
 ✨✨Cada día es una nueva oportunidad de aprender.
 
