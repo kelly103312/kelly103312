@@ -6,7 +6,7 @@
 
  # Tecnologías:
  
- <img src="https://www.ecured.cu/images/thumb/5/55/Angular1.jpg/260px-Angular1.jpg" width="50"> <img src="https://image.pngaaa.com/546/2459546-middle.png" width="50"> 
+ <img src="https://img.shields.io/badge/SPRINGboot-FF0000?style=for-the-badge&logo=SPRING&logoColor=white" > <img src="https://img.shields.io/badge/ANGULAR-FF0000?style=for-the-badge&logo=ANGULAR&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/FASTAPI-FF0000?style=for-the-badge&logo=FASTAPI&logoColor=white"> <img src="https://img.shields.io/badge/DOCKER-FF0000?style=for-the-badge&logo=DOCKER&logoColor=white"> 
 
   
 <!--
