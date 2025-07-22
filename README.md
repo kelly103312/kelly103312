@@ -7,7 +7,7 @@ Soy desarrolladora full stack de Colombia con más de dos años de experiencia e
  
  <img src="https://img.shields.io/badge/SPRINGboot-FF0000?style=for-the-badge&logo=SPRING&logoColor=white" > <img src="https://img.shields.io/badge/ANGULAR-FF0000?style=for-the-badge&logo=ANGULAR&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/FASTAPI-FF0000?style=for-the-badge&logo=FASTAPI&logoColor=white"> 
 
-  # Alguans herramientas:
+  # Algunas herramientas:
 <img src="https://img.shields.io/badge/DOCKER-FF0000?style=for-the-badge&logo=DOCKER&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 
