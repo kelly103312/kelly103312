@@ -6,7 +6,9 @@
 
  # Tecnologías:
 
- ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ecured.cu%2FAngular_%2528framework%2529&psig=AOvVaw0CRslP1uv8ISBJrZY-mO5y&ust=1753279820130000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDzm6zS0I4DFQAAAAAdAAAAABAE "LOGO ANGULAR")
+ ![alt text](https://www.ecured.cu/images/thumb/5/55/Angular1.jpg/260px-Angular1.jpg "LOGO ANGULAR")
+ 
+ ![alt text](https://image.pngaaa.com/546/2459546-middle.png "LOGO SPRING BOOT")
  
 
 
