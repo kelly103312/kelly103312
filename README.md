@@ -5,12 +5,10 @@
 
 
  # Tecnologías:
-
- ![alt text](https://www.ecured.cu/images/thumb/5/55/Angular1.jpg/260px-Angular1.jpg=48x48)
  
- ![alt text](https://image.pngaaa.com/546/2459546-middle.png=48x48)
- 
-
+ <img src="https://www.ecured.cu/images/thumb/5/55/Angular1.jpg/260px-Angular1.jpg" width="48">
+ <img src="https://image.pngaaa.com/546/2459546-middle.png" width="48">
+ <img src="https://github.com/favicon.ico" width="48">
 
   
 <!--
