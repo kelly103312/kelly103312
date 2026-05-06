@@ -1,32 +1,29 @@
-## Holaa, soy Kelly 👋
+# Hola, soy Kelly 😁
 
-Soy desarrolladora full stack de Colombia con más de dos años de experiencia en la industría. He trabajado en distintos proyectos principalmente en Angular, Spring Boot y Python, además conozco la integración entre distintas herramientas de integración continua com GitHub, Docker y Kubernetes. 
+Desarrolladora Full Stack enfocada en conectar frontend y backend de forma clara y funcional. He trabajado construyendo aplicaciones donde el usuario realmente interactúa con datos: desde interfaces en Angular hasta APIs en FastAPI y Spring Boot, incluyendo despliegues y automatización con Docker.
+---
 
+## ⚙️ En qué he trabajado
 
- # Algunas de las tecnologías que utilizo:
- 
- <img src="https://img.shields.io/badge/SPRINGboot-FF0000?style=for-the-badge&logo=SPRING&logoColor=white" > <img src="https://img.shields.io/badge/ANGULAR-FF0000?style=for-the-badge&logo=ANGULAR&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/FASTAPI-FF0000?style=for-the-badge&logo=FASTAPI&logoColor=white"> 
+He participado en varios proyectos enfocados en el desarrollo de aplicaciones web, principalmente en la gestión de información y la integración de servicios.
 
-  # Algunas herramientas:
-<img src="https://img.shields.io/badge/DOCKER-FF0000?style=for-the-badge&logo=DOCKER&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+En estos proyectos he trabajado en:
 
+* Construcción de interfaces dinámicas en Angular para visualización y gestión de datos
+* Desarrollo de APIs REST con FastAPI y Spring Boot para manejo de lógica de negocio
+* Implementación de autenticación y manejo de sesiones
+* Integración entre frontend y backend asegurando consistencia en los datos
+* Despliegue de aplicaciones usando Docker y configuración básica en entornos cloud
+* Automatización de flujos de desarrollo con CI/CD
 
+---
 
+## 🧰 Stack principal
 
+Angular · Spring Boot · FastAPI · Python · Docker · AWS
 
-------------------------------------✨✨Cada día es una nueva oportunidad de aprender.---------------------------
-  
-<!--
-**kelly103312/kelly103312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: [(tu link)](https://www.linkedin.com/in/kelly-quintana-157380143/)
