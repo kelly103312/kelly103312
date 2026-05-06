@@ -1,6 +1,8 @@
 # Hola, soy Kelly 😁
 
+
 Desarrolladora Full Stack enfocada en conectar frontend y backend de forma clara y funcional. He trabajado construyendo aplicaciones donde el usuario realmente interactúa con datos: desde interfaces en Angular hasta APIs en FastAPI y Spring Boot, incluyendo despliegues y automatización con Docker.
+
 ---
 
 ## ⚙️ En qué he trabajado
@@ -26,4 +28,4 @@ Angular · Spring Boot · FastAPI · Python · Docker · AWS
 
 ## 📫 Contacto
 
-LinkedIn: [(tu link)](https://www.linkedin.com/in/kelly-quintana-157380143/)
+LinkedIn: [(Kelly Quintana)](https://www.linkedin.com/in/kelly-quintana-157380143/)
